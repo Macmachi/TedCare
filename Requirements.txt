@@ -1,0 +1,1 @@
+pip install aiogram speechrecognition pyttsx3 azure-cognitiveservices-speech reportlab pydub configparser
